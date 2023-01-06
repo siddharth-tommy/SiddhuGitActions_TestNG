@@ -11,7 +11,7 @@ public class HomePageTests extends TestHelper {
 
     Browser browser;
 
-    @Parameters({"browserName", "baseUrl"})
+    @Parameters({"browserName", "https://github.com/siddharth-tommy/SiddhuGitActions_TestNG/edit/main/src/test/java/tests/HomePageTests.java"})
     @BeforeClass(groups = {"web"})
     public void setUp(String browserName, String baseUrl) {
         browser = new Browser(browserName, baseUrl);
