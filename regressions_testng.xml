@@ -4,7 +4,7 @@
 
     <parameter name="baseUrl" value="http://www.bbc.co.uk/"/>
 
-    <test name="Chrome Tests">
+       <test name="Chrome Tests">
         <parameter name="browserName" value="Chrome"/>
         <groups>
             <run>
