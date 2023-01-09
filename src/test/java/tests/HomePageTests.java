@@ -1,4 +1,4 @@
-package tests;
+package tests;                 
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
@@ -9,7 +9,7 @@ import org.testng.annotations.*;
 
 /**
  * Created by opantsjoha on 02/07/2017.
- */
+ */        
 public class HomePageTests extends TestHelper {
 
 //    Browser browser;
