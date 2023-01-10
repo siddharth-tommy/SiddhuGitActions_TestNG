@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> -->
+
+<suite name='testSuite'>
+<test name="Regression1">
+  <!-- <groups>
+    <run>
+      <exclude name="brokenTests"  />
+      <include name="checkinTests"  />
+    </run>
+  </groups>
+  -->
+  
+  <classes>
+    <class name="tests.HomePageTests"></class>
+  </classes>
+</test>
+</suite>
